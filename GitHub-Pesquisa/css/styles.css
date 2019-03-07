@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Play');
+
+.avatar{
+    width: 100%;
+}
+.row-div{
+    border: 1px solid #ddd;
+    margin: 2px;
+}
+.searchContainer{
+    padding-top: 40px;
+}
+.searchContainer h1{
+    font-weight: bolder;
+}
+#main-container{
+    background-color: #ccc;
+    margin-top: 30px;
+}
+#searchTitle{
+    font-family: 'Play', sans-serif;
+    font-weight: bolder;
+}
+.form-control{
+    border: 1px solid rgb(167, 236, 238);
+    border-radius: 2px;
+}
